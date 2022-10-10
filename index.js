@@ -15,12 +15,6 @@ function decrement() {
     countEl.textContent = count
 };
 
-// Reset count to 0
-// function reset() {
-//     count = 0
-//     countEl.textContent = count
-// };
-
 // Save Button
 function save() {
    let saveCount = count + ", ";
